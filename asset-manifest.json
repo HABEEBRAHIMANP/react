@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.956fad23.chunk.css",
-    "main.js": "/static/js/main.5e61a658.chunk.js",
-    "main.js.map": "/static/js/main.5e61a658.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
-    "static/js/2.3b189aff.chunk.js": "/static/js/2.3b189aff.chunk.js",
-    "static/js/2.3b189aff.chunk.js.map": "/static/js/2.3b189aff.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0edc078b7b4939312453d50cb19595e1.js": "/precache-manifest.0edc078b7b4939312453d50cb19595e1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.3b189aff.chunk.js.LICENSE.txt": "/static/js/2.3b189aff.chunk.js.LICENSE.txt",
-    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.1fe53c1c.png",
-    "static/media/resume.pdf": "/static/media/resume.3e26bc28.pdf"
+    "main.css": "/react/static/css/main.956fad23.chunk.css",
+    "main.js": "/react/static/js/main.29587d77.chunk.js",
+    "main.js.map": "/react/static/js/main.29587d77.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.710dcc97.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.710dcc97.js.map",
+    "static/js/2.3b189aff.chunk.js": "/react/static/js/2.3b189aff.chunk.js",
+    "static/js/2.3b189aff.chunk.js.map": "/react/static/js/2.3b189aff.chunk.js.map",
+    "index.html": "/react/index.html",
+    "precache-manifest.a8d4fa884ada50689cf70213b56af448.js": "/react/precache-manifest.a8d4fa884ada50689cf70213b56af448.js",
+    "service-worker.js": "/react/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/react/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.3b189aff.chunk.js.LICENSE.txt": "/react/static/js/2.3b189aff.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/react/static/media/hashirshoaeb.1fe53c1c.png",
+    "static/media/resume.pdf": "/react/static/media/resume.3e26bc28.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.554504a0.js",
+    "static/js/runtime-main.710dcc97.js",
     "static/js/2.3b189aff.chunk.js",
     "static/css/main.956fad23.chunk.css",
-    "static/js/main.5e61a658.chunk.js"
+    "static/js/main.29587d77.chunk.js"
   ]
 }
